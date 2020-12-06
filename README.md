@@ -4,8 +4,8 @@ Hello World Practice
 <html>
 <body>
 
-<p>This is a paragraph.</p>
-<p>This is another paragraph.</p>
+<p>HTML coding is so much fun.</p>
+<p>One day I will be a web master.</p>
 
 </body>
 </html>
