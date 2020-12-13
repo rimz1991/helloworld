@@ -2,7 +2,6 @@
 Hello World Practice
 <!DOCTYPE html>
 <html>
-<body>
 <body style="background-color:powderblue;">
 
 <p>HTML coding is so much fun.</p>
