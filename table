@@ -1,0 +1,25 @@
+<h2>Basic HTML Table</h2>
+ 
+ 
+<table style="width:100%">
+  <tr>
+    <th> First Name</th> 
+    <th>Last Name</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Rima</td>
+    <td>Maredia</td>
+    <td>29</td>
+  </tr>
+  <tr>
+    <td>Taichi</td>
+    <td>Yagami</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>Kari</td>
+    <td>Kamiya</td>
+    <td>29</td>
+  </tr>
+</table>
